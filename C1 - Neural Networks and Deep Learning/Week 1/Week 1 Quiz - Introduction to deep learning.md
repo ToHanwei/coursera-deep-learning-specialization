@@ -5,21 +5,21 @@
     - [ ] AI is powering personal devices in our homes and offices, similar to electricity.
     - [ ] Through the “smart grid”, AI is delivering a new wave of electricity.
     - [ ] AI runs on computers and is thus powered by electricity, but it is letting computers do things not possible before.
-    - [x] Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
+    - [ ] Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
     
     Note: Andrew illustrated the same idea in the lecture.
 
 2. Which of these are reasons for Deep Learning recently taking off? (Check the two options that apply.)
 
-    - [x] We have access to a lot more computational power.
+    - [ ] We have access to a lot more computational power.
     - [ ] Neural Networks are a brand new field.
-    - [x] We have access to a lot more data.
-    - [x] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
+    - [ ] We have access to a lot more data.
+    - [ ] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
     
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
 
-    - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
-    - [x] Faster computation can help speed up how long a team takes to iterate to a good idea. 
+    - [ ] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
+    - [ ] Faster computation can help speed up how long a team takes to iterate to a good idea. 
     - [ ] It is faster to train on a big dataset than a small dataset.
     - [x] Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware).
 
